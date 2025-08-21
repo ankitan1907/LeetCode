@@ -1,2 +1,3 @@
-        # Your code here
+class Solution:
+    def maxSubArraySum(self, arr):
 
